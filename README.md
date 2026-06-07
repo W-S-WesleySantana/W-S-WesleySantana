@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**W-S-WesleySantana/W-S-WesleySantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Wesley Santana 👋
 
-Here are some ideas to get you started:
+Tenho 25 anos e sou um **Desenvolvedor Front-End** em transição de carreira, focado em criar interfaces modernas, limpas e responsivas. Estou em busca da minha primeira oportunidade profissional no mercado de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Sobre Mim
+- ⚡ **Comprometimento:** Sou extremamente pontual e focado no cumprimento rigoroso de prazos.
+- 🧠 **Perfil:** Esforçado, autodidata e em constante aprendizado para entregar códigos de qualidade.
+- 💼 **Objetivo:** Atuar em projetos reais onde eu possa colaborar com o time e evoluir minhas habilidades técnicas.
+
+### 🛠️ Habilidades Técnicas (Em desenvolvimento)
+- **Linguagens:** HTML5, CSS3, JavaScript
+- **Frameworks/Bibliotecas:** React.js 
+- **Ferramentas:** Git, GitHub, VS Code, Figma 
+
+### 📫 Como me encontrar
+- **LinkedIn:** www.linkedin.com/in/wesley-santana-86902819b
+
+- **E-mail:** Wesleymemo7@gmail.com 
